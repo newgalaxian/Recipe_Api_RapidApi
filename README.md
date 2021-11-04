@@ -1,7 +1,8 @@
 # flutter_recipe
 
-A new Flutter project.
+Yummly API from RapidApi![reipe_api](https://user-images.githubusercontent.com/12398746/140322679-4c56d8eb-5152-43a2-b108-67eb454762df.jpg)
 
+Rest API
 ## Getting Started
 
 This project is a starting point for a Flutter application.
